@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">I'm a Global Talent Sourcer with 10+ years of experience finding the best talents!</h3>
+<h3 align="center">I'm a Global Talent Intelligence Lead with 10+ years of experience building the best insights!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techrec13" alt="techrec13" /> </p>
 
-- 🔭 I’m currently working for [Philip Morris International](https://www.pmi.com/our-transformation)
-
-- 🌱 I’m currently learning **Python, AWS**
+- 🔭 I’m currently working for Takeda
 
 - 👨‍💻 All of my projects are available at [https://github.com/techrec13](https://github.com/techrec13)
 
-- 💬 Ask me about **Sourcing and OSINT**
+- 💬 Ask me about **COmpetitive intelligence and OSINT**
 
 - 📫 How to reach me **guillaume.lhote14@gmail.com**
-
-- ⚡ Fun fact **Marathon and trail runner!**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=techrec13&show_icons=true" alt="techrec13" /> </p>
 
