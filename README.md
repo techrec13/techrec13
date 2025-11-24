@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/techrec13](https://github.com/techrec13)
 
-- 💬 Ask me about **COmpetitive intelligence and OSINT**
+- 💬 Ask me about **Competitive intelligence and OSINT**
 
 - 📫 How to reach me **guillaume.lhote14@gmail.com**
 
